@@ -6,7 +6,7 @@
 
 }
 body {
-    background-color: #e7e7e7;
+    background-color: #b0e93f;
     padding-top: 100px;
 
 }
@@ -40,18 +40,18 @@ form{
 form input{
     font-size: 24px;
     background-color: #fff;
-    border: none;
+    border: 20px solid #b0e93f;
     border-bottom: 2px solid #000;
-    padding: 8px;    
+    padding: 6px;    
 }
 form button{
-    background-color: #009432;
+    background-color: #fe0000;
     color:#fff;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: bold;
-    border: none;
+    border: 16px solid #fe0000;
     cursor: pointer;
-    padding: 8px;
+    padding: 6px;
 }
 table{
     width: 100%;
@@ -77,12 +77,4 @@ table td img{
     color: #fff;
     background-color:#000;
     border-radius: 3px;
-}
-.aprovado{
-    background-color: #009432;
-
-}
-.reprovado{
-    background-color: red;
-    
 }
