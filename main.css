@@ -6,7 +6,7 @@
 
 }
 body {
-    background-color: #b0e93f;
+    background-color: #b5cbea;
     padding-top: 100px;
 
 }
@@ -40,16 +40,16 @@ form{
 form input{
     font-size: 24px;
     background-color: #fff;
-    border: 20px solid #b0e93f;
+    border: 20px solid #b5cbea;
     border-bottom: 2px solid #000;
     padding: 6px;    
 }
 form button{
-    background-color: #fe0000;
-    color:#fff;
+    background-color:  #f1ed05;
+    color:#050505;
     font-size: 16px;
     font-weight: bold;
-    border: 16px solid #fe0000;
+    border: 16px solid #f1ed05;
     cursor: pointer;
     padding: 6px;
 }
